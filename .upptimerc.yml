@@ -18,8 +18,12 @@ sites:
     url: $SECRET_SQA_WEB_SITE
   - name: SQA API
     url: $SECRET_SQA_SITE
-  - name: Corsar API
-    url: https://corsar.ory.sh
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+- name: Corsar API
+    url: https://corsar.ory.sh/orgs/ory/repos?__host=api.github.com&__proto=https&per_page=10&page=1
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
