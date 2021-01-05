@@ -113,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sqa-api",
     "status": "up",
-    "uptime": "2.17%",
-    "uptimeDay": "2.17%",
-    "uptimeWeek": "2.17%",
-    "uptimeMonth": "2.17%",
-    "uptimeYear": "2.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 101,
     "timeWeek": 101,
     "timeMonth": 101,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2021-01-05": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Corsar API",
@@ -133,18 +131,16 @@
     "icon": "https://favicons.githubusercontent.com/corsar.ory.sh",
     "slug": "corsar-api",
     "status": "up",
-    "uptime": "1.96%",
-    "uptimeDay": "1.96%",
-    "uptimeWeek": "1.96%",
-    "uptimeMonth": "1.96%",
-    "uptimeYear": "1.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 224,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {
-      "2021-01-05": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
