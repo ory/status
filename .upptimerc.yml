@@ -41,6 +41,9 @@ status-website:
       href: https://www.ory.sh/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+commitMessages:
+  commitAuthorName: "aeneasr"
+  commitAuthorEmail: "3372410+aeneasr@users.noreply.github.com"
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
