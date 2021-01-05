@@ -8,9 +8,19 @@ sites:
     url: https://www.ory.sh
   - name: Documentation
     url: https://www.ory.sh/docs
+  - name: Kubernetes Helm Charts
+    url: http://k8s.ory.sh/helm/
+  - name: Ory Cloud (Staging)
+    url: $SECRET_STAGING_SITE
   - name: Slack Invite Bot
     url: https://slack.ory.sh/
-
+  - name: SQA Web API
+    url: $SECRET_SQA_WEB_SITE
+  - name: SQA API
+    url: $SECRET_SQA_SITE
+  - name: Corsar API
+    url: https://corsar.ory.sh
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.ory.sh
