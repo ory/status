@@ -58,18 +58,20 @@
     "url": "$SECRET_STAGING_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ory-cloud-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2054,
-    "timeDay": 1222,
-    "timeWeek": 4517,
-    "timeMonth": 2382,
-    "timeYear": 2054,
-    "dailyMinutesDown": {}
+    "time": 2380,
+    "timeDay": 8976,
+    "timeWeek": 5738,
+    "timeMonth": 2804,
+    "timeYear": 2380,
+    "dailyMinutesDown": {
+      "2021-02-11": 0
+    }
   },
   {
     "name": "Slack Invite Bot",
