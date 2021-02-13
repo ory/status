@@ -1,7 +1,7 @@
 url: $SECRET_STAGING_SITE
-status: up
-code: 200
-responseTime: 1397
-lastUpdated: 2021-02-12T23:18:16.340Z
+status: down
+code: 504
+responseTime: 15957
+lastUpdated: 2021-02-13T11:41:31.671Z
 startTime: Tue Jan 05 2021 09:26:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
