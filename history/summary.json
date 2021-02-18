@@ -4,10 +4,10 @@
     "url": "https://www.ory.sh",
     "icon": "https://favicons.githubusercontent.com/www.ory.sh",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 628,
@@ -15,7 +15,9 @@
     "timeWeek": 730,
     "timeMonth": 629,
     "timeYear": 628,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-18": 1
+    }
   },
   {
     "name": "Documentation",
@@ -66,7 +68,7 @@
     "uptimeYear": "99.91%",
     "time": 2924,
     "timeDay": 751,
-    "timeWeek": 5474,
+    "timeWeek": 4826,
     "timeMonth": 3673,
     "timeYear": 2924,
     "dailyMinutesDown": {
