@@ -58,9 +58,9 @@
     "url": "$SECRET_STAGING_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ory-cloud-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
@@ -70,6 +70,7 @@
     "timeMonth": 3619,
     "timeYear": 2827,
     "dailyMinutesDown": {
+      "2021-02-21": 0,
       "2021-02-16": 31,
       "2021-02-13": 27
     }
