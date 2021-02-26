@@ -76,18 +76,20 @@
     "url": "$SECRET_STAGING_ORY_KRATOS_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ory-kratos-api-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 319,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
+    "time": 1813,
+    "timeDay": 1813,
+    "timeWeek": 1813,
+    "timeMonth": 1813,
+    "timeYear": 1813,
+    "dailyMinutesDown": {
+      "2021-02-26": 2
+    }
   },
   {
     "name": "Ory Console (Staging)",
@@ -95,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ory-console-staging",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 242,
     "timeDay": 242,
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2021-02-26": 2
+      "2021-02-26": 198
     }
   },
   {
@@ -133,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sqa-web-api",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "93.11%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.61%",
+    "uptimeDay": "79.49%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.61%",
     "time": 453,
     "timeDay": 552,
     "timeWeek": 485,
     "timeMonth": 481,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2021-02-26": 99
+      "2021-02-26": 295
     }
   },
   {
