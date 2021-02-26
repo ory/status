@@ -10,8 +10,12 @@ sites:
     url: https://www.ory.sh/docs
   - name: Kubernetes Helm Charts
     url: http://k8s.ory.sh/helm/
-  - name: Ory Cloud (Staging)
+  - name: Ory Demo (Legacy)
     url: "$SECRET_STAGING_SITE"
+  - name: Ory Kratos API (Staging)
+    url: "$SECRET_STAGING_ORY_PROJECT"/api/kratos/public/health/ready
+  - name: Ory Console (Staging)
+    url: "$SECRET_STAGING_ORY_CONSOLE"
   - name: Slack Invite Bot
     url: https://slack.ory.sh/
   - name: SQA Web API
