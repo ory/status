@@ -76,19 +76,19 @@
     "url": "$SECRET_STAGING_ORY_KRATOS_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ory-kratos-api-staging",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
-    "time": 1813,
-    "timeDay": 1813,
-    "timeWeek": 1813,
-    "timeMonth": 1813,
-    "timeYear": 1813,
+    "status": "up",
+    "uptime": "93.39%",
+    "uptimeDay": "93.39%",
+    "uptimeWeek": "93.39%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "93.39%",
+    "time": 1549,
+    "timeDay": 1549,
+    "timeWeek": 1549,
+    "timeMonth": 1549,
+    "timeYear": 1549,
     "dailyMinutesDown": {
-      "2021-02-26": 2
+      "2021-02-26": 14
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2021-02-26": 198
+      "2021-02-26": 212
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sqa-web-api",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "79.49%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.59%",
+    "uptimeDay": "78.52%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.59%",
     "time": 453,
     "timeDay": 552,
     "timeWeek": 485,
     "timeMonth": 481,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2021-02-26": 295
+      "2021-02-26": 309
     }
   },
   {
