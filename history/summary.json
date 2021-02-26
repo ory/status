@@ -97,9 +97,9 @@
     "url": "$SECRET_SQA_WEB_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sqa-web-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +108,9 @@
     "timeWeek": 485,
     "timeMonth": 481,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 0
+    }
   },
   {
     "name": "SQA API",
