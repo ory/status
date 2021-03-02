@@ -1,7 +1,7 @@
 url: $SECRET_STAGING_ORY_CONSOLE
 status: down
 code: 401
-responseTime: 240
-lastUpdated: 2021-03-01T23:18:44.573Z
+responseTime: 203
+lastUpdated: 2021-03-02T23:19:13.325Z
 startTime: Fri Feb 26 2021 12:05:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
