@@ -16,6 +16,9 @@ sites:
     url: "$SECRET_STAGING_ORY_KRATOS_API"
   - name: Ory Console (Staging)
     url: "$SECRET_STAGING_ORY_CONSOLE"
+    expectedStatusCodes:
+      - 200
+      - 302
   - name: Slack Invite Bot
     url: https://slack.ory.sh/
   - name: SQA Web API
@@ -46,9 +49,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 commitMessages:
-  commitAuthorName: "aeneasr"
-  commitAuthorEmail: "3372410+aeneasr@users.noreply.github.com"
-  
+  commitAuthorName: "ory-bot"
+  commitAuthorEmail: "60093411+ory-bot@users.noreply.github.com"
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
