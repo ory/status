@@ -6,10 +6,15 @@ repo: status # Your GitHub repository name
 sites:
   - name: Website
     url: https://www.ory.sh
-  - name: Documentation
-    url: https://www.ory.sh/docs
   - name: Kubernetes Helm Charts
     url: http://k8s.ory.sh/helm/
+  - name: Ory Console
+    url: https://console.ory.sh/
+    expectedStatusCodes:
+      - 200
+      - 302
+  - name: Ory Kratos API
+    url: https://project.console.ory.sh/api/kratos/public/health/ready
   - name: Ory Demo (Legacy)
     url: "$SECRET_STAGING_SITE"
   - name: Ory Kratos API (Staging)
