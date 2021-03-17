@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/console.ory.sh",
     "slug": "ory-console",
     "status": "down",
-    "uptime": "6.41%",
-    "uptimeDay": "6.41%",
-    "uptimeWeek": "6.41%",
-    "uptimeMonth": "6.41%",
-    "uptimeYear": "6.41%",
+    "uptime": "5.63%",
+    "uptimeDay": "5.63%",
+    "uptimeWeek": "5.63%",
+    "uptimeMonth": "5.63%",
+    "uptimeYear": "5.63%",
     "time": 268,
     "timeDay": 268,
     "timeWeek": 268,
@@ -98,8 +98,8 @@
     "slug": "ory-kratos-api-staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
@@ -108,7 +108,7 @@
     "timeMonth": 692,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2021-03-17": 0
+      "2021-03-17": 1
     }
   },
   {
