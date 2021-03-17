@@ -1,7 +1,7 @@
-url: https://console.ory.sh/
-status: down
-code: 401
-responseTime: 268
-lastUpdated: 2021-03-17T15:57:05.896Z
+url: https://console.ory.sh/login
+status: up
+code: 200
+responseTime: 175
+lastUpdated: 2021-03-17T15:59:55.775Z
 startTime: Wed Mar 17 2021 15:57:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
