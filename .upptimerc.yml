@@ -9,7 +9,7 @@ sites:
   - name: Kubernetes Helm Charts
     url: http://k8s.ory.sh/helm/
   - name: Ory Console
-    url: https://console.ory.sh/
+    url: https://console.ory.sh/login
     expectedStatusCodes:
       - 200
       - 302
