@@ -15,15 +15,6 @@ sites:
       - 302
   - name: Ory Kratos API
     url: https://project.console.ory.sh/api/kratos/public/health/ready
-  - name: Ory Demo (Legacy)
-    url: "$SECRET_STAGING_SITE"
-  - name: Ory Kratos API (Staging)
-    url: "$SECRET_STAGING_ORY_KRATOS_API"
-  - name: Ory Console (Staging)
-    url: "$SECRET_STAGING_ORY_CONSOLE"
-    expectedStatusCodes:
-      - 200
-      - 302
   - name: Slack Invite Bot
     url: https://slack.ory.sh/
   - name: SQA Web API
