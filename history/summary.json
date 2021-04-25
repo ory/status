@@ -41,21 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/console.ory.sh",
     "slug": "ory-console",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.31%",
+    "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 247,
     "timeWeek": 218,
     "timeMonth": 222,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2021-03-19": 666,
-      "2021-03-18": 1440,
-      "2021-03-17": 483
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ory Kratos API",
@@ -99,22 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sqa-web-api",
     "status": "up",
-    "uptime": "96.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.97%",
+    "uptimeYear": "100.00%",
     "time": 494,
     "timeDay": 655,
     "timeWeek": 605,
     "timeMonth": 582,
     "timeYear": 494,
-    "dailyMinutesDown": {
-      "2021-03-01": 1097,
-      "2021-02-28": 1440,
-      "2021-02-27": 1440,
-      "2021-02-26": 812
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SQA API",
