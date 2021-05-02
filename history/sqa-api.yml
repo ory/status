@@ -1,7 +1,7 @@
 url: $SECRET_SQA_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-05-02T22:52:56.645Z
+status: up
+code: 404
+responseTime: 126
+lastUpdated: 2021-05-02T22:58:39.625Z
 startTime: Tue Jan 05 2021 09:26:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
