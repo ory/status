@@ -6,27 +6,28 @@ repo: status # Your GitHub repository name
 sites:
   - name: Website
     url: https://www.ory.sh
-  - name: Kubernetes Helm Charts
-    url: http://k8s.ory.sh/helm/
-  - name: Ory Console
+  - name: Console
     url: https://console.ory.sh/login
     expectedStatusCodes:
       - 200
       - 302
-  - name: Ory Kratos API
+  - name: Identity APIs
     url: https://project.console.ory.sh/api/kratos/public/health/ready
-  - name: Slack Invite Bot
-    url: https://slack.ory.sh/
-  - name: SQA Web API
-    url: "$SECRET_SQA_WEB_SITE"
-  - name: SQA API
-    url: "$SECRET_SQA_SITE"
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-  - name: Corsar API
-    url: "https://corsar.ory.sh/orgs/ory/repos?__host=api.github.com&__proto=https&per_page=10&page=1"
+
+  # - name: Kubernetes Helm Charts
+  #   url: http://k8s.ory.sh/helm/
+  # - name: Slack Invite Bot
+  #  url: https://slack.ory.sh/
+  # - name: SQA Web API
+  #   url: "$SECRET_SQA_WEB_SITE"
+  # - name: SQA API
+  #   url: "$SECRET_SQA_SITE"
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 201
+  #     - 404
+  # - name: Corsar API
+  #   url: "https://corsar.ory.sh/orgs/ory/repos?__host=api.github.com&__proto=https&per_page=10&page=1"
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
