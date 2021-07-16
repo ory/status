@@ -1,7 +1,7 @@
 url: https://project.console.ory.sh/api/kratos/public/health/ready
-status: up
-code: 200
-responseTime: 128
-lastUpdated: 2021-07-16T10:45:25.891Z
+status: down
+code: 521
+responseTime: 212
+lastUpdated: 2021-07-16T20:46:07.541Z
 startTime: Tue May 04 2021 06:59:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
