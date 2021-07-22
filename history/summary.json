@@ -40,17 +40,17 @@
     "url": "https://project.console.ory.sh/api/kratos/public/health/ready",
     "icon": "https://favicons.githubusercontent.com/project.console.ory.sh",
     "slug": "identity-ap-is",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 1026,
-    "timeWeek": 458,
-    "timeMonth": 375,
-    "timeYear": 323,
+    "time": 341,
+    "timeDay": 1403,
+    "timeWeek": 532,
+    "timeMonth": 412,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   }
 ]
