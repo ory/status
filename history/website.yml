@@ -1,7 +1,7 @@
 url: https://www.ory.sh
-status: up
-code: 200
-responseTime: 249
-lastUpdated: 2021-08-20T23:56:30.652Z
+status: down
+code: 502
+responseTime: 155
+lastUpdated: 2021-08-21T06:55:29.671Z
 startTime: Tue Jan 05 2021 09:12:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
