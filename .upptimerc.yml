@@ -46,8 +46,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 commitMessages:
-  commitAuthorName: "ory-bot"
-  commitAuthorEmail: "60093411+ory-bot@users.noreply.github.com"
+  commitAuthorName: "aeneasr"
+  commitAuthorEmail: "3372410+aeneasr@users.noreply.github.com"
 
 assignees:
   - aeneasr
