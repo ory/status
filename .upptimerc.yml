@@ -49,6 +49,12 @@ commitMessages:
   commitAuthorName: "ory-bot"
   commitAuthorEmail: "60093411+ory-bot@users.noreply.github.com"
 
+assignees:
+  - aeneasr
+  - piotrmsc
+  - Demonsthere
+  - tricky42
+  
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
