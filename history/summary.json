@@ -52,5 +52,23 @@
     "timeMonth": 552,
     "timeYear": 418,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Failing Test Case",
+    "url": "https://project.console.ory.sh/not.exist",
+    "icon": "https://favicons.githubusercontent.com/project.console.ory.sh",
+    "slug": "failing-test-case",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 451,
+    "timeDay": 451,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 451,
+    "dailyMinutesDown": {}
   }
 ]
