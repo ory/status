@@ -60,5 +60,5 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
-          user_name: "ory-bot"
-          user_email: "60093411+ory-bot@users.noreply.github.com"
+          user_name: "aeneasr"
+          user_email: "3372410+aeneasr@users.noreply.github.com"
