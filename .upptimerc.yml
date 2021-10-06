@@ -13,7 +13,7 @@ sites:
       - 302
   - name: Identity APIs
     url: https://project.console.ory.sh/api/kratos/public/health/ready
-  - name: Failing Test Case
+  - name: Failing Test API
     url: https://project.console.ory.sh/not.exist
     
   # - name: Kubernetes Helm Charts
