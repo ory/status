@@ -25,18 +25,20 @@
     "url": "https://console.ory.sh/login",
     "icon": "https://favicons.githubusercontent.com/console.ory.sh",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 497,
-    "timeWeek": 434,
-    "timeMonth": 441,
-    "timeYear": 410,
-    "dailyMinutesDown": {}
+    "time": 461,
+    "timeDay": 7940,
+    "timeWeek": 2302,
+    "timeMonth": 908,
+    "timeYear": 461,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Identity APIs",
