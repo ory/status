@@ -25,19 +25,19 @@
     "url": "https://console.ory.sh/login",
     "icon": "https://favicons.githubusercontent.com/console.ory.sh",
     "slug": "console",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 7940,
-    "timeWeek": 2302,
-    "timeMonth": 908,
+    "timeDay": 5462,
+    "timeWeek": 2103,
+    "timeMonth": 896,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 4
     }
   },
   {
