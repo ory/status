@@ -11,10 +11,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 437,
-    "timeDay": 426,
-    "timeWeek": 302,
-    "timeMonth": 278,
-    "timeYear": 424,
+    "timeDay": 263,
+    "timeWeek": 252,
+    "timeMonth": 276,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2022-01-23": 15,
       "2021-12-15": 26
@@ -27,18 +27,16 @@
     "slug": "console",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 5462,
-    "timeWeek": 2103,
-    "timeMonth": 896,
-    "timeYear": 461,
-    "dailyMinutesDown": {
-      "2022-02-02": 4
-    }
+    "time": 465,
+    "timeDay": 5773,
+    "timeWeek": 2208,
+    "timeMonth": 924,
+    "timeYear": 465,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Identity APIs",
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
+    "time": 451,
     "timeDay": 564,
-    "timeWeek": 503,
-    "timeMonth": 516,
-    "timeYear": 450,
+    "timeWeek": 517,
+    "timeMonth": 517,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   }
 ]
