@@ -4,11 +4,11 @@
     "url": "https://www.ory.sh",
     "icon": "https://favicons.githubusercontent.com/www.ory.sh",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 434,
     "timeDay": 290,
@@ -16,6 +16,7 @@
     "timeMonth": 268,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2022-02-10": 0,
       "2022-01-23": 15,
       "2021-12-15": 26
     }
