@@ -12,7 +12,7 @@ sites:
       - 200
       - 302
   - name: Identity APIs
-    url: https://project.console.ory.sh/api/kratos/public/health/ready
+    url: https://project.console.ory.sh/status/kratos/health/ready
     
   # - name: Kubernetes Helm Charts
   #   url: http://k8s.ory.sh/helm/
