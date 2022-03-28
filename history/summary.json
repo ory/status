@@ -13,7 +13,7 @@
     "time": 418,
     "timeDay": 336,
     "timeWeek": 305,
-    "timeMonth": 297,
+    "timeMonth": 299,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2022-01-23": 15,
@@ -43,18 +43,19 @@
     "url": "https://project.console.ory.sh/status/kratos/health/ready",
     "icon": "https://favicons.githubusercontent.com/project.console.ory.sh",
     "slug": "identity-ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 525,
+    "time": 490,
+    "timeDay": 570,
     "timeWeek": 612,
-    "timeMonth": 594,
-    "timeYear": 489,
+    "timeMonth": 595,
+    "timeYear": 490,
     "dailyMinutesDown": {
+      "2022-03-28": 0,
       "2022-03-21": 7
     }
   }
