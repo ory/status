@@ -6,15 +6,25 @@ repo: status # Your GitHub repository name
 sites:
   - name: Website
     url: https://www.ory.sh
+  - name: Documentation
+    url: https://www.ory.sh/docs/welcome
   - name: Console
     url: https://console.ory.sh/login
     expectedStatusCodes:
       - 200
       - 302
-  - name: Identity APIs
-    url: https://project.console.ory.sh/revisions/kratos
-    
-  # - name: Kubernetes Helm Charts
+  - name: Identity Management
+    url: https://playground.projects.oryapis.com/revisions/kratos
+  - name: Project Management
+    url: https://api.console.ory.sh/
+    expectedStatusCodes:
+      - 401
+  - name: Session Check API
+    url: https://playground.projects.oryapis.com/sessions/whoami
+    expectedStatusCodes:
+      - 401
+
+# - name: Kubernetes Helm Charts
   #   url: http://k8s.ory.sh/helm/
   # - name: Slack Invite Bot
   #  url: https://slack.ory.sh/
@@ -43,6 +53,8 @@ status-website:
       href: /
     - title: Website
       href: https://www.ory.sh/
+    - title: Console
+      href: https://console.ory.sh/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 commitMessages:
