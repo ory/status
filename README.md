@@ -30,5 +30,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [ORY](http://www.ory.sh/)
+- Code: [MIT](./LICENSE) © [Ory](http://www.ory.sh/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
