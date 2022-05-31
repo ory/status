@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 394,
     "timeDay": 159,
     "timeWeek": 198,
-    "timeMonth": 181,
+    "timeMonth": 179,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2022-05-30": 4,
       "2022-05-02": 15,
       "2022-01-23": 15,
       "2021-12-15": 26
@@ -28,19 +27,17 @@
     "icon": "https://favicons.githubusercontent.com/www.ory.sh",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 264,
     "timeDay": 157,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2022-05-30": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Console",
@@ -56,8 +53,8 @@
     "time": 496,
     "timeDay": 624,
     "timeWeek": 483,
-    "timeMonth": 436,
-    "timeYear": 512,
+    "timeMonth": 438,
+    "timeYear": 513,
     "dailyMinutesDown": {}
   },
   {
