@@ -44,19 +44,19 @@
     "url": "https://console.ory.sh/login",
     "icon": "https://favicons.githubusercontent.com/console.ory.sh",
     "slug": "console",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 493,
-    "timeDay": 555,
+    "timeDay": 470,
     "timeWeek": 388,
-    "timeMonth": 446,
+    "timeMonth": 444,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-06-21": 5
+      "2022-06-21": 39
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/playground.projects.oryapis.com",
     "slug": "identity-management",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.80%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 594,
     "timeDay": 722,
     "timeWeek": 604,
     "timeMonth": 594,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2022-06-21": 3,
+      "2022-06-21": 39,
       "2022-06-09": 37
     }
   },
@@ -86,18 +86,18 @@
     "icon": "https://favicons.githubusercontent.com/api.console.ory.sh",
     "slug": "project-management",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.90%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 433,
     "timeDay": 507,
     "timeWeek": 411,
     "timeMonth": 433,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 37
     }
   },
   {
@@ -106,18 +106,18 @@
     "icon": "https://favicons.githubusercontent.com/playground.projects.oryapis.com",
     "slug": "session-check-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 301,
     "timeDay": 304,
     "timeWeek": 265,
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 35
     }
   }
 ]
