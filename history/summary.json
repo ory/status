@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 397,
-    "timeDay": 1356,
-    "timeWeek": 455,
-    "timeMonth": 417,
-    "timeYear": 324,
+    "time": 398,
+    "timeDay": 1496,
+    "timeWeek": 615,
+    "timeMonth": 456,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2022-05-02": 15,
       "2022-01-23": 15,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 14,
-    "timeWeek": 90,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "timeDay": 251,
+    "timeWeek": 108,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -46,17 +46,17 @@
     "slug": "console",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 493,
-    "timeDay": 481,
-    "timeWeek": 400,
-    "timeMonth": 446,
+    "timeDay": 475,
+    "timeWeek": 420,
+    "timeMonth": 457,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-06-21": 44
+      "2022-06-21": 39
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/playground.projects.oryapis.com",
     "slug": "identity-management",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "96.42%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 1098,
-    "timeDay": 4403,
-    "timeWeek": 2112,
-    "timeMonth": 1098,
-    "timeYear": 1098,
+    "uptime": "99.78%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1085,
+    "timeDay": 4393,
+    "timeWeek": 2128,
+    "timeMonth": 1085,
+    "timeYear": 1085,
     "dailyMinutesDown": {
-      "2022-06-21": 52,
+      "2022-06-21": 47,
       "2022-06-09": 37
     }
   },
@@ -86,18 +86,18 @@
     "icon": "https://favicons.githubusercontent.com/api.console.ory.sh",
     "slug": "project-management",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 437,
-    "timeDay": 502,
-    "timeWeek": 431,
-    "timeMonth": 437,
-    "timeYear": 437,
+    "uptime": "99.88%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 440,
+    "timeDay": 511,
+    "timeWeek": 453,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-06-21": 49
+      "2022-06-21": 45
     }
   },
   {
@@ -106,18 +106,18 @@
     "icon": "https://favicons.githubusercontent.com/playground.projects.oryapis.com",
     "slug": "session-check-api",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.89%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 292,
     "timeDay": 233,
-    "timeWeek": 248,
+    "timeWeek": 251,
     "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2022-06-21": 48
+      "2022-06-21": 44
     }
   }
 ]
