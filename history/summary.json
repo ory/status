@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 402,
-    "timeDay": 1708,
-    "timeWeek": 834,
-    "timeMonth": 611,
-    "timeYear": 332,
+    "time": 420,
+    "timeDay": 11044,
+    "timeWeek": 2343,
+    "timeMonth": 920,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2022-05-02": 15,
       "2022-01-23": 15,
@@ -27,19 +27,17 @@
     "icon": "https://favicons.githubusercontent.com/www.ory.sh",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 43,
-    "timeWeek": 88,
-    "timeMonth": 200,
+    "timeDay": 131,
+    "timeWeek": 97,
+    "timeMonth": 202,
     "timeYear": 189,
-    "dailyMinutesDown": {
-      "2022-06-29": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Console",
@@ -53,9 +51,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 490,
-    "timeDay": 343,
-    "timeWeek": 374,
-    "timeMonth": 430,
+    "timeDay": 375,
+    "timeWeek": 372,
+    "timeMonth": 428,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2022-06-21": 39
@@ -72,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.83%",
-    "time": 932,
-    "timeDay": 437,
-    "timeWeek": 503,
-    "timeMonth": 971,
-    "timeYear": 932,
+    "time": 918,
+    "timeDay": 377,
+    "timeWeek": 477,
+    "timeMonth": 962,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2022-06-21": 47,
       "2022-06-09": 37
@@ -94,9 +92,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
     "time": 414,
-    "timeDay": 281,
-    "timeWeek": 344,
-    "timeMonth": 416,
+    "timeDay": 316,
+    "timeWeek": 343,
+    "timeMonth": 414,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2022-06-21": 45
@@ -113,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 280,
-    "timeDay": 214,
-    "timeWeek": 245,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "time": 278,
+    "timeDay": 197,
+    "timeWeek": 240,
+    "timeMonth": 274,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2022-06-21": 44
     }
