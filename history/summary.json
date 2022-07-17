@@ -11,10 +11,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 458,
-    "timeDay": 1452,
-    "timeWeek": 928,
-    "timeMonth": 1465,
-    "timeYear": 425,
+    "timeDay": 611,
+    "timeWeek": 974,
+    "timeMonth": 1476,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2022-07-14": 15,
       "2022-05-02": 15,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 39,
-    "timeWeek": 93,
-    "timeMonth": 109,
-    "timeYear": 166,
+    "time": 229,
+    "timeDay": 69,
+    "timeWeek": 88,
+    "timeMonth": 108,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -52,10 +52,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 483,
-    "timeDay": 541,
-    "timeWeek": 447,
-    "timeMonth": 384,
-    "timeYear": 533,
+    "timeDay": 739,
+    "timeWeek": 505,
+    "timeMonth": 392,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2022-06-21": 39
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 731,
-    "timeDay": 684,
-    "timeWeek": 573,
-    "timeMonth": 796,
-    "timeYear": 731,
+    "time": 729,
+    "timeDay": 541,
+    "timeWeek": 586,
+    "timeMonth": 797,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2022-06-21": 47,
       "2022-06-09": 37
@@ -93,9 +93,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 386,
-    "timeDay": 518,
-    "timeWeek": 413,
-    "timeMonth": 367,
+    "timeDay": 425,
+    "timeWeek": 429,
+    "timeMonth": 368,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2022-06-21": 45
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
-    "time": 292,
-    "timeDay": 321,
-    "timeWeek": 661,
-    "timeMonth": 286,
-    "timeYear": 292,
+    "time": 291,
+    "timeDay": 222,
+    "timeWeek": 652,
+    "timeMonth": 285,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2022-06-21": 44
     }
