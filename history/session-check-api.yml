@@ -1,7 +1,7 @@
 url: https://playground.projects.oryapis.com/sessions/whoami
-status: up
-code: 401
-responseTime: 270
-lastUpdated: 2022-07-29T23:04:59.305Z
+status: down
+code: 504
+responseTime: 15152
+lastUpdated: 2022-07-30T00:45:03.365Z
 startTime: Thu May 26 2022 15:35:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
