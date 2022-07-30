@@ -54,7 +54,7 @@
     "time": 482,
     "timeDay": 422,
     "timeWeek": 457,
-    "timeMonth": 413,
+    "timeMonth": 402,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2022-06-21": 39
@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/playground.projects.oryapis.com",
     "slug": "identity-management",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.39%",
+    "uptimeDay": "66.20%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "99.39%",
     "time": 868,
     "timeDay": 8032,
     "timeWeek": 2361,
-    "timeMonth": 836,
+    "timeMonth": 859,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2022-07-30": 1,
+      "2022-07-30": 487,
       "2022-06-21": 47,
       "2022-06-09": 37
     }
@@ -96,7 +96,7 @@
     "time": 390,
     "timeDay": 380,
     "timeWeek": 351,
-    "timeMonth": 373,
+    "timeMonth": 363,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2022-06-21": 45
@@ -107,19 +107,19 @@
     "url": "https://playground.projects.oryapis.com/sessions/whoami",
     "icon": "https://favicons.githubusercontent.com/playground.projects.oryapis.com",
     "slug": "session-check-api",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 457,
-    "timeDay": 7711,
-    "timeWeek": 2113,
-    "timeMonth": 642,
-    "timeYear": 457,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "66.27%",
+    "uptimeWeek": "95.18%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "99.43%",
+    "time": 552,
+    "timeDay": 8099,
+    "timeWeek": 2864,
+    "timeMonth": 868,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-07-30": 0,
+      "2022-07-30": 486,
       "2022-06-21": 44
     }
   }
