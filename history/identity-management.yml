@@ -1,7 +1,7 @@
 url: https://playground.projects.oryapis.com/revisions/kratos
-status: up
-code: 200
-responseTime: 570
-lastUpdated: 2022-08-08T23:05:08.745Z
+status: down
+code: 500
+responseTime: 591
+lastUpdated: 2022-08-09T11:27:24.498Z
 startTime: Thu May 26 2022 15:35:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
