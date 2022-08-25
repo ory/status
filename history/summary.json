@@ -27,19 +27,19 @@
     "url": "https://www.ory.sh/docs/welcome",
     "icon": "https://favicons.githubusercontent.com/www.ory.sh",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 14177,
-    "timeWeek": 3253,
-    "timeMonth": 936,
-    "timeYear": 429,
+    "time": 360,
+    "timeDay": 9467,
+    "timeWeek": 2933,
+    "timeMonth": 912,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2022-08-25": 0
+      "2022-08-25": 4
     }
   },
   {
