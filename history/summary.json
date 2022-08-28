@@ -4,18 +4,19 @@
     "url": "https://www.ory.sh",
     "icon": "https://favicons.githubusercontent.com/www.ory.sh",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 466,
+    "time": 467,
     "timeDay": 1576,
     "timeWeek": 740,
     "timeMonth": 650,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2022-08-28": 0,
       "2022-07-14": 15,
       "2022-05-02": 15,
       "2022-01-23": 15,
@@ -27,9 +28,9 @@
     "url": "https://www.ory.sh/docs/welcome",
     "icon": "https://favicons.githubusercontent.com/www.ory.sh",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +39,9 @@
     "timeWeek": 5215,
     "timeMonth": 1590,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-28": 0
+    }
   },
   {
     "name": "Console",
